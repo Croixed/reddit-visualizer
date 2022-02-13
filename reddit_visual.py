@@ -65,7 +65,7 @@ def initialize_layout():
     a dictionary with all the layout properties we want to use
     """
     my_layout = {
-        'title': f'Most upvoted posts on /r/{subreddit}(last 30 days)',
+        'title': f'Most upvoted posts on /r/{subreddit} (last 30 days)',
         'titlefont': {'size': 28},
         'xaxis': {
             'title': 'post',
