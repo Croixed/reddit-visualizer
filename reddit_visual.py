@@ -2,7 +2,7 @@ import requests
  
 from plotly.graph_objs import Bar
 from plotly import offline
- 
+
 subreddit = 'HomeNetworking'
 api_call_link = f'https://www.reddit.com/r/{subreddit}/top.json?limit=16&t=month' 
 # alright this technically isn't a direct API call with using my reddit API key but it gives the same output
