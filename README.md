@@ -1,5 +1,5 @@
 # reddit-visualizer
-Queries Reddit for JSON data and then visualizes it using Plotly.
+Queries Reddit for JSON data and then visualizes it using Plotly.Works with any subreddit, all you have to do is change line 6 in the python script.
 
 You can click the links to take you to the original Reddit post.
 
